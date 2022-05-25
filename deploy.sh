@@ -6,4 +6,6 @@ hello from dev env
 a NEW LINE OF CODE
 deployment5 master
 deployment4
-deploy to staging 
+deploy to staging environment
+echo good job
+testeed and accepted
